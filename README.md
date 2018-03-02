@@ -1,5 +1,5 @@
 
-<h1>Freddy de Jesús Santana Pérez </h1>
+ <h1><center> Freddy de Jesús Santana Pérez</center> </h1> 
 <div>
     <h3> I'm a Mechatronic Engineer with passion for programming and medical devices. My favorite animal is the shark because this is a silent animal always silent 
     searching a new opportunity to satisfy his hungry and I'm looking for a new opportunity to grow up in this world.
